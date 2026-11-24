@@ -4,9 +4,11 @@
 ## Name: DIYA R
 
 ## Problem Title
-SIH 26033: Multiple intermediaries reduce farmers' earnings and increase consumer prices.
-Problem creator's organization: Ministry of Consumer Affairs, Food & Public Distribution
-Theme: Agriculture, FoodTech & Rural Development
+SIH 26033:  Multiple intermediaries reduce farmers' earnings and increase consumer prices.
+
+Problem creator's organization:  Ministry of Consumer Affairs, Food & Public Distribution
+
+Theme:  Agriculture, FoodTech & Rural Development
 
 ## Problem Description
 Expected solution: a digital marketplace that connects farmers and FPOs directly with consumers and bulk buyers, provides logistics support, and uses AI for demand forecasting and route optimization.
